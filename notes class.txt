@@ -1,0 +1,30 @@
+Dos tipos de imagenes: Raster- mapa de bits ((RGB)4th ) (HSB)
+		     intensidad de cada color(RGB)
+		   2 hexa por cada color
+
+Vectorial - cordenada esta a cordenada est, recarcular los vectoriales comienzo y fin
+instrucciones de como se dibujan.
+Algunos formatos de imagen vectorial son: AI (Adobe Illustrator), CDR (Corel Draw), DXF. (Autodesk), EMF, EPS, ODG  (Open Office Draw), SVG (Inkscape), SWF (Adobe flash), WMF (Microsoft)
+
+Drawble lo que sea dibujable pero no especifica densidades
+Manifest-archivo de config
+res- archivo de 
+Mipmap-
+Layout todas las pantallas que forman parte de mi application.
+Values-
+Calificadores-
+Styles-
+Colors-
+Que es Gradle- especificaciones que ayudan a constuir y correo nuestra applicacion,
+Modle app- archivo de config
+ 	Dependencias  - todas las librerias que se van a utilizar en nuestra applicacion.
+	Version Minima-
+SGOLIVER.NET componentes de una applicacion
+		Fragments
+Vistas-elementos graficos que nos ayudan a estructurar la pagina
+Servicios-servidor web, antivitrus
+Web service-peticion-se utiliza- clima en telefono
+R-accesar archivos
+
+Maximo valor con dos digitos hexadecimal
+Examen teorico VIENE
